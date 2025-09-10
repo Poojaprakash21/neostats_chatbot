@@ -1,2 +1,7 @@
-# neostats_chatbot
-This project is a Retrieval-Augmented Generation (RAG) chatbot built with Streamlit and LangChain. It acts as an intelligent assistant that provides contextual and factual answers by retrieving information from a provided knowledge base. The chatbot can also use a web search API as a fallback for general questions.
+# NeoStats AI Chatbot — MVP
+
+## What this project does
+- RAG-based chatbot: answers from uploaded documents (PDF/TXT) using OpenAI embeddings + FAISS
+- Web-search fallback via SerpAPI when docs don't cover the question
+- Streamlit UI with Concise / Detailed response mode
+

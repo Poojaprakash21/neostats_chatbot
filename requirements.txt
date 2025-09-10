@@ -1,0 +1,9 @@
+streamlit
+langchain
+openai
+faiss-cpu
+pypdf2
+python-dotenv
+requests
+tqdm
+sentence-transformers
